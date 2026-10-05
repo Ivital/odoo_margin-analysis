@@ -32,3 +32,13 @@ msgstr "Формули маржі"
 #: model_terms:ir.ui.view,arch_db:loyalty_margin_computation.margin_product_loyalty_reward_form_view
 msgid "The following variables can be used:"
 msgstr "Можна використовувати такі змінні:"
+
+#. module: loyalty_margin_computation
+#: model_terms:ir.ui.view,arch_db:loyalty_margin_computation.margin_product_loyalty_reward_form_view
+msgid "<code>reward</code>: The reward record"
+msgstr "<code>reward</code>: запис винагороди"
+
+#. module: loyalty_margin_computation
+#: model:ir.model.fields,field_description:loyalty_margin_computation.field_loyalty_reward__sale_margin_formula
+msgid "Sale Margin Formula"
+msgstr "Формула маржі продажу"

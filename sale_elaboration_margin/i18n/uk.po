@@ -17,3 +17,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_elaboration_margin.field_sale_order_line__elaboration_cost_price
 msgid "Elaboration Cost"
 msgstr "Вартість доопрацювання"
+
+#. module: sale_elaboration_margin
+#: model:ir.model.fields,field_description:sale_elaboration_margin.field_sale_order_line__elaboration_margin
+msgid "Elaboration Margin"
+msgstr "Маржа опрацювання"
+
+#. module: sale_elaboration_margin
+#: model:ir.model.fields,field_description:sale_elaboration_margin.field_sale_order_line__elaboration_price
+msgid "Elaboration Price"
+msgstr "Ціна опрацювання"

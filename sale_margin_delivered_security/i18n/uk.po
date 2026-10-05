@@ -17,3 +17,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_margin_delivered_security.field_sale_order_line__margin_delivered
 msgid "Margin Delivered"
 msgstr "Маржа доставки"
+
+#. module: sale_margin_delivered_security
+#: model:ir.model.fields,field_description:sale_margin_delivered_security.field_sale_order_line__margin_delivered_percent
+msgid "Margin Delivered Percent"
+msgstr "Відсоток доставленої маржі"
+
+#. module: sale_margin_delivered_security
+#: model:ir.model.fields,field_description:sale_margin_delivered_security.field_sale_order_line__purchase_price_delivery
+msgid "Purchase Price Delivery"
+msgstr "Ціна закупівлі доставки"

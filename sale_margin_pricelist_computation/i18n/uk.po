@@ -51,3 +51,47 @@ msgstr "Формули маржі"
 #: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
 msgid "The following variables can be used:"
 msgstr "Можна використовувати такі змінні:"
+
+#. module: sale_margin_pricelist_computation
+#: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
+msgid ""
+"<code>line.product_uom_qty</code>, <code>line.qty_delivered</code>: Ordered "
+"and delivered quantities"
+msgstr ""
+"<code>line.product_uom_qty</code>, <code>line.qty_delivered</code>: "
+"замовлена та доставлена кількість"
+
+#. module: sale_margin_pricelist_computation
+#: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
+msgid "<code>line</code>: Order Line (sale.order.line)"
+msgstr "<code>line</code>: рядок замовлення (sale.order.line)"
+
+#. module: sale_margin_pricelist_computation
+#: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
+msgid "<code>pricelist</code>: Current pricelist"
+msgstr "<code>pricelist</code>: поточний прайс-лист"
+
+#. module: sale_margin_pricelist_computation
+#: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
+msgid "<code>pricelist_item</code>: Current pricelist rule"
+msgstr "<code>pricelist_item</code>: поточне правило прайс-листа"
+
+#. module: sale_margin_pricelist_computation
+#: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
+msgid "<code>product.list_price</code>: Product sale price"
+msgstr "<code>product.list_price</code>: ціна продажу товару"
+
+#. module: sale_margin_pricelist_computation
+#: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
+msgid "<code>product.standard_price</code>: Product cost"
+msgstr "<code>product.standard_price</code>: собівартість товару"
+
+#. module: sale_margin_pricelist_computation
+#: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
+msgid "<code>product</code>: The Sale Order Line product"
+msgstr "<code>product</code>: товар рядка замовлення продажу"
+
+#. module: sale_margin_pricelist_computation
+#: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
+msgid "To return a result, assign: <code>result = </code>"
+msgstr "Щоб повернути результат, призначте: <code>result = </code>"
