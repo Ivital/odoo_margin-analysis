@@ -113,3 +113,13 @@ msgid ""
 msgstr ""
 "Ця формула використовується для розрахунку ціни замовлення на продаж з метою"
 " обчислення маржі"
+
+#. module: sale_margin_pricelist_computation
+#. odoo-python
+#: code:addons/sale_margin_pricelist_computation/models/product_pricelist_item.py:0
+msgid ""
+"Invalid sale margin formula:\n"
+"%(error)s"
+msgstr ""
+"Недійсна формула маржі продажу:\n"
+"%(error)s"
