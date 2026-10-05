@@ -36,3 +36,15 @@ msgstr "Маржа (%)"
 #: model_terms:ir.ui.view,arch_db:account_invoice_margin.view_account_invoice_tree
 msgid "Total"
 msgstr "Разом"
+
+#. module: account_invoice_margin
+#: model:ir.model.fields,field_description:account_invoice_margin.field_account_invoice_report__margin
+msgid "Margin Analysis"
+msgstr "Аналіз маржі"
+
+#. module: account_invoice_margin
+#: model:ir.model.fields,field_description:account_invoice_margin.field_account_bank_statement_line__margin_signed
+#: model:ir.model.fields,field_description:account_invoice_margin.field_account_move__margin_signed
+#: model:ir.model.fields,field_description:account_invoice_margin.field_account_move_line__margin_signed
+msgid "Margin Signed"
+msgstr "Поле підпису"

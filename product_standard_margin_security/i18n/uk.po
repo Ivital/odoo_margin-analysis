@@ -30,3 +30,9 @@ msgstr "Маржа (%)"
 #: model:ir.model.fields,field_description:product_standard_margin_security.field_product_template__standard_markup_rate
 msgid "Markup (%)"
 msgstr "Націнка (%)"
+
+#. module: product_standard_margin_security
+#: model:ir.model.fields,field_description:product_standard_margin_security.field_product_product__list_price_vat_excl
+#: model:ir.model.fields,field_description:product_standard_margin_security.field_product_template__list_price_vat_excl
+msgid "Sale Price VAT Excluded"
+msgstr "Ціна продажу без ПДВ"
