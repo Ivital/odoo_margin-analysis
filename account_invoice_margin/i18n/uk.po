@@ -48,3 +48,8 @@ msgstr "Аналіз маржі"
 #: model:ir.model.fields,field_description:account_invoice_margin.field_account_move_line__margin_signed
 msgid "Margin Signed"
 msgstr "Поле підпису"
+
+#. module: account_invoice_margin
+#: model:res.groups,name:account_invoice_margin.group_account_invoice_margin_security
+msgid "Show Invoice Margin"
+msgstr "Показувати маржу рахунка"

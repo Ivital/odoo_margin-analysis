@@ -42,3 +42,8 @@ msgstr "<code>reward</code>: запис винагороди"
 #: model:ir.model.fields,field_description:loyalty_margin_computation.field_loyalty_reward__sale_margin_formula
 msgid "Sale Margin Formula"
 msgstr "Формула маржі продажу"
+
+#. module: loyalty_margin_computation
+#: model:ir.model.fields,help:loyalty_margin_computation.field_loyalty_reward__sale_margin_formula
+msgid "This formula is used to calculate the margin"
+msgstr "Ця формула використовується для розрахунку маржі"

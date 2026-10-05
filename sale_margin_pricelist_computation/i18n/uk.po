@@ -95,3 +95,21 @@ msgstr "<code>product</code>: товар рядка замовлення про�
 #: model_terms:ir.ui.view,arch_db:sale_margin_pricelist_computation.margin_product_pricelist_item_form_view
 msgid "To return a result, assign: <code>result = </code>"
 msgstr "Щоб повернути результат, призначте: <code>result = </code>"
+
+#. module: sale_margin_pricelist_computation
+#: model:ir.model.fields,help:sale_margin_pricelist_computation.field_product_pricelist_item__margin_cost_price_formula
+msgid ""
+"This formula is used to calculate the cost price for the purposes of "
+"calculating the margin"
+msgstr ""
+"Ця формула використовується для розрахунку собівартості з метою обчислення "
+"маржі"
+
+#. module: sale_margin_pricelist_computation
+#: model:ir.model.fields,help:sale_margin_pricelist_computation.field_product_pricelist_item__margin_sale_price_formula
+msgid ""
+"This formula is used to calculate the sales order price for the purposes of "
+"margin calculation"
+msgstr ""
+"Ця формула використовується для розрахунку ціни замовлення на продаж з метою"
+" обчислення маржі"
